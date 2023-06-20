@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "a MRI person"
   location         : "Magdeburg, Germany"
-  employer         : "Otto von Guericke University Magdeburg"
+  employer         : #"Otto von Guericke University Magdeburg"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=hendrik+mattern"
   googlescholar    : "https://scholar.google.de/citations?hl=de&user=CBgK8gIAAAAJ"
   email            :

@@ -9,7 +9,7 @@ author_profile: true
 
   You can find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>
 
-TESTING <a href="{{author.googlescholar}}">
+<a href="{% author.googlescholar %}">TESTING</a>
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}

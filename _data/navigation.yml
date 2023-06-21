@@ -6,10 +6,7 @@ main:
   - title: "Grants & funding"
     url: /grants/
     
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
+  - title: "Teaching & student projects"
     url: /teaching/    
         
   - title: "Blog Posts"

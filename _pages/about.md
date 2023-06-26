@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 Welcome to my little page.
+
+WORK IN PROGRESS

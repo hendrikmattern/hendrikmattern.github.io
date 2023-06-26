@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Grants"
+title: "Grants & Funding"
 permalink: /grants/
 author_profile: true
 redirect_from:
@@ -9,51 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-ToDo
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-ToDo
+Vascular resistance and resilience in ALS – an ultrahigh-resolution 7T MRI study of the motor cortex
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Funding agency: DFG 
+Funding period: 01.10.2022-30.09.2024
+Project number:  / MA 9235/3-1
+<a href="https://gepris.dfg.de/gepris/projekt/501214112?language=en" target="_blank"> 501214112 </a>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+MD-DARS: MagDeburger DrAinage-Reserve-Score for patient-specific, MRI-based prediction of perivascular drainage in the Alzheimer’s continuum
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Funding agency: Deutsche Alzheimer Gesellschaft (DAG) e.V.
+Funding period: 01.10.2022-30.09.2024
+
+
+Vessel distance mapping: Quantification of subcortical arterial and venous vascular patterns to study their interdependency
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Funding agency: DFG-NAMT9 
+Funding period: 01.07.2020-30.06.2021
+Project number: <a href="https://gepris.dfg.de/gepris/projekt/446268581?language=en" target="_blank"> 446268581 </a>
+

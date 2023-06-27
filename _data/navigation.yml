@@ -8,9 +8,10 @@ main:
     
   - title: "Teaching & student projects"
     url: /teaching/    
+    
+  - title: "CV"
+    url: /cv/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/

@@ -16,6 +16,6 @@ Welcome to my little page. I'm Hendrik, an engineer by training, researching in 
 
 
 In particular I'm interested in ultra-high resolution imaging, usually at ultra-high field MRI and with motion correction, and imaging as well as quantification of the vasculature. 
-Besides this, I have fun ...
+Besides this, I have fun with some pet projects, such as using chemical shift artifacts of an oil mask to prospectively anonymize k-space data.
 
 ![colab]('_pages/colab_world.html')

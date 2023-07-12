@@ -10,7 +10,7 @@ author_profile: true
 I'm a tutor for the *"Basics of Magnetic Resonance"* course every winter semester since 2019. Further, I'm a tutor for the *"Physics for Engineers"* course since 2018, supervising the lab experiments every summer and teaching physics exercises every winter semester.
 
 Besides teaching on the university-level, I'm part of the
-<a href="https://www.forschungscampus-stimulate.de/deu/aktuelles/news/neuer-workshop-zum-magnetic-resonance-system-engineering-gestartet.html" target="_blank" rel="noopener">*Magnetic Resonance System Engineering*</a>
+[*Magnetic Resonance System Engineering*](https://www.forschungscampus-stimulate.de/deu/aktuelles/news/neuer-workshop-zum-magnetic-resonance-system-engineering-gestartet.html "link to press release") 
 course offered exclusively to Siemens's high potentials. Within this 9 day interactive course, I'm in charge of the theory lectures and hands-on demos at the 3T Skyra for MRI performance and MR artifacts, respectively.
 
 # Student projects

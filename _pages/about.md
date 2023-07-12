@@ -19,3 +19,5 @@ In particular I'm interested in ultra-high resolution imaging, usually at ultra-
 Besides this, I have fun with some pet projects, such as using chemical shift artifacts of an oil mask to [prospectively anonymize k-space data](https://doi.org/10.1002/mrm.28460 "link to CHARISMA MRM paper").
 
 ![colab]('_pages/colab_world.html')
+
+{% include colab_world.html %}

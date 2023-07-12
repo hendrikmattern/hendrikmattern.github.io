@@ -17,19 +17,3 @@ My main research topics go hand in hand. To image and assess small vessels high 
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
-
-</nbsp>
-
-# Open source and publicly available data
-
-DS6 code
-challenge
-pial
-250
-follow up
-vdm
-omelette
-
-rot dev
-
-charisma

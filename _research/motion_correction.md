@@ -7,6 +7,8 @@ order_number: 20
 
 Motion is the archenemy of (high resolution) MRI
 
+
+# Scientific contribution
 ToF and QSM Study
 
 chapter: https://doi.org/10.1016/B978-0-12-824460-9.00014-5 with motion correction
@@ -16,3 +18,7 @@ fatnat mpt :  https://doi.org/10.1002/mrm.27908
 alex 21 https://doi.org/10.1002/mrm.28998
 
 rotdev https://doi.org/10.1515/cdbme-2019-1570538325
+
+
+# Open source and publicly available data
+rot dev

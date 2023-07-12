@@ -4,9 +4,12 @@ excerpt: "<img src='/images/500x300.png'>"
 collection: research
 order_number: 30
 ---
+
 The vasculature has a profound effect on the brain's function and physiology as well as being the origin or reserve mechanism of pathologies. With MRI we have the unique potential to image non-invasively the structure and function of vasculature as well as associated downstream pathologies. 
 
 Vessel imaging sits in the heart of my research interests, with ultra-high field MRI as well as motion correction pushing the effective image resolution to see smaller vessel, and vessel distance mapping as an image post-processing technique to analyze the vasculature with respect to is surrounding anatomy.
+
+# Scientific contribution
 
 The quest to obtain ultra-high resolution vessel images resulted in some of the highest resolution MR images published to date with up to [140 µm isotropic resolution](https://doi.org/10.7554/eLife.71186.sa0). The result show that with MRI it is feasible to image the pial arterial vasculature. Imaging pial arteries is crucial to understand the signal origin of fMRI as they show some of the largest responses to neuronal activity across all vessel types.
  
@@ -32,6 +35,11 @@ letter, Counteraction of inflammatory activity in CAA-related subarachnoid hemor
 
 DS6 https://doi.org/10.3390/jimaging8100259
 
-vessel challenge
 
+# Open source and publicly available data
+vessel challenge
 omelette 
+DS6 code
+challenge
+pial
+follow up

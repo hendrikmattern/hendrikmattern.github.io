@@ -15,7 +15,7 @@ course offered exclusively to Siemens's high potentials. Within this 9 day inter
 
 # Student projects
 
-Over the past years, I have supervised a number of student projects and thesis (see my [CV](../cv.md)) and I'm always happy to supervise students with a passion for their project. Just reach out to me to discuss your topic idea. 
+Over the past years, I have supervised a number of student projects and thesis (see my [CV](../cv/)) and I'm always happy to supervise students with a passion for their project. Just reach out to me to discuss your topic idea. 
 Typical topics include, but are not limited to:
 * Sequence programming in IDEA or with PulSeq
 * Image reconstruction with BART

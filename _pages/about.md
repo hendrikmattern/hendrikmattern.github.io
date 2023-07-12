@@ -18,6 +18,6 @@ Besides this, I have fun with some pet projects, such as using chemical shift ar
 
 *Overview where my coauthors are located around the world*
 
-[Overview](colab_world.html)
+[Overview](../colab_world.html)
 
 {% include colab_world.html %}

@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 #WORK IN PROGRESS
 
-Welcome to my little page. I'm Hendrik, an engineer by training, working in the field of MR resarch, leveraging physics and computer science to contribute to the fields of neuroscience and neurology. 
+Welcome to my little page. I'm Hendrik, an engineer by training, researching in the field of MRI method development. I'm fortunate to have excellent research partners all around the globe. Together we push MR methods and contribute to the fields of neuroscience and neurology. 
 
-On this page you can find my research interests, funding information, links to publications and CV, as well as my teaching and student project record. Occasionally, I'll add blog posts.
 
+In particular I'm interested in ultra-high resolution imaging, usually at ultra-high field MRI and with motion correction, and imaging as well as quantification of the vasculature. 
+Besides this, I have fun ...
+
+![colab]('_pages/colab_world.html')

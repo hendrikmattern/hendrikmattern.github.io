@@ -10,7 +10,8 @@ author_profile: true
   You can find my publications on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=CBgK8gIAAAAJ "link to my Google scholar profile").
 My main research topics go hand in hand. To image and assess small vessels high effective resolutions are required. Tools such as ultra-high field MRI and motion correction  enable the required level of detail.
  
-{% for post in site.research %}
-  {% include archive-single.html %}
-{% endfor %}
+{% assign ordered_pages = site.research | sort:"order_number" %}
 
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}

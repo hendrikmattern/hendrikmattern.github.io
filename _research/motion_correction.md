@@ -10,9 +10,9 @@ Motion is one of the archenemies of MRI. While the field of motion correction is
 To overcome this inevitable resolution limit motion tracking and subsequent correction with high precision is required. I have worked extensively with [prospective motion correction using an optical, MR-compatible tracking system](https://doi.org/10.1371/journal.pone.0133921), but also have used [fat navigators with retrospective correction](https://doi.org/10.1002/mrm.27908). While motion is an essential thread to (ultra-)high resolution MRI, it can be addressed with motion correction and we have achieved images with up to 140 µm isotropic resolution in vivo. Note that the optimal motion correction approach depends on the study at hand.
 
 
-# Selected publications
+# Scientific contribution & selected publications
 
-* Book chapter and review of motion correction for high resolution MRI.
+* Book chapter and review of motion correction for ultra-)high resolution MRI.
 >**Mattern H**, Lüsebrink F, Speck O.
 High Resolution Structural Brain Imaging.
 in A. van der Kouwe, J. Andre Motion Correction in MR: Correction of Position, Motion,

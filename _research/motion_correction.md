@@ -25,7 +25,7 @@ Imaging of the pial arterial vasculature of the human brain in vivo using high-r
 eLife, 2022
 [DOI: 10.7554/eLife.71186](https://doi.org/10.7554/eLife.71186)
 
-* Prospective motion corrected layer fMRI 
+* Prospectively motion-corrected layer-specific fMRI 
 >Iamshchinina P, Kaiser D, Yakupov R , Hänelt D, Sciarra A, **Mattern H**, Lüsebrink F, Düzel E, Speck O, Weiskopf N, Cichy R.
 Perceived and mentally rotated contents are differentially represented in cortical layers of V1.
 Communications Biology, 2021

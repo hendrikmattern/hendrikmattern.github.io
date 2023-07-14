@@ -1,5 +1,5 @@
 ---
-title: "Ultra-high resolution imaging and UHF-MRI"
+title: "Ultra-high resolution imaging & UHF-MRI"
 excerpt: "<img src='/images/500x300.png'>"
 collection: research
 order_number: 10

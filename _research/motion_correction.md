@@ -1,6 +1,6 @@
 ---
 title: "Motion correction for MRI"
-excerpt: "<img src='/images/500x300.png'>"
+excerpt: "<img src='/images/MPTMotionCorrectionPrinciple.gif'>"
 collection: research
 order_number: 20
 ---

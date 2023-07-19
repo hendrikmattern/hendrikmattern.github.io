@@ -5,7 +5,7 @@ collection: research
 order_number: 40
 ---
 
-In our daily life, we associate relevance and closeness. VDM is inspired by this simple idea that vessel close to a region of interest are more relevant. VDM is a versatile tool for image postprocessing to understand vessel patterns and their relation to physiology and pathologies. While originally developed for MRI, it is currently applied to other imaging modalities as well such as light sheet microscopy. Below you find an overview of VDM projects with a multitude of application to understand vessel patterns and their impact on physiology and pathologies. 
+In our daily life, we associate relevance and closeness. VDM is inspired by this simple idea that vessel close to a region of interest are more relevant. VDM is a versatile tool for image post-processing to understand vessel patterns and their relation to physiology and pathologies. While originally developed for MRI, it is currently applied to other imaging modalities as well such as light sheet microscopy. Below you find an overview of VDM projects with a multitude of application to understand vessel patterns and their impact on physiology and pathologies. 
 
 
 # Scientific contribution & selected publications

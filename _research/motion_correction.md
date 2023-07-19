@@ -15,8 +15,7 @@ To overcome this inevitable resolution limit motion tracking and subsequent corr
 * Book chapter and review of motion correction for ultra-)high resolution MRI.
 >**Mattern H**, Lüsebrink F, Speck O.
 *High Resolution Structural Brain Imaging.*
-in A. van der Kouwe, J. Andre Motion Correction in MR: Correction of Position, Motion,
-and Dynamic Field Changes, (2022); 
+in Motion Correction in MR: Correction of Position, Motion, and Dynamic Field Changes edited by van der Kouwe A and Andre J (2022); 
 [ISBN: 9780128244609](https://doi.org/10.1016/B978-0-12-824460-9.00014-5)
 
 * Leveraging PMC to image pial arteries at 140 µm isotropic resolution.

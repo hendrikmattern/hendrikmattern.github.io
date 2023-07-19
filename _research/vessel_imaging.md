@@ -14,7 +14,7 @@ The quest to obtain ultra-high resolution vessel images resulted in some of the 
 
 Further, the integrity of (small) vessels is intertwined with diseases such as CSVD, ALS, and Alzheimer's. Hence, imaging and assessing them will improve our understanding of the diseases and, potentially, lead to new approaches for diagnostics and therapy.
 
-For vessel assessment, segmenting the vessel of interest is required. While an active field of research, .. 3d hires
+For vessel assessment, segmenting the vessel of interest is required. While an active field of research, segmenting small vessels from high resolution 3D data is challenging (see our [vessel segmentation challenge](https://doi.org/10.7303/syn47164761)).
 
 
 # Scientific contribution & selected publications
@@ -80,9 +80,6 @@ Magnetic Resonance in Medicine, 2018
 *Prospective motion correction enables highest resolution time-of-flight angiography at 7T.*
 Magnetic Resonance in Medicine, 2017
 [DOI: 10.1002/mrm.27033](https://doi.org/10.1002/mrm.27033)
-
-
-
 
 
 

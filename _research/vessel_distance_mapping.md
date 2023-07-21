@@ -1,10 +1,12 @@
 ---
 title: "Vessel distance mapping (VDM) and pattern assessment"
-excerpt: "<img src='/images/500x300.png'>"
+excerpt: "<img src='/images/research/vdm/VDM_example.jpg'>"
 permalink: /research/vessel_distance_mapping/
 collection: research
 order_number: 40
 ---
+
+<img src="/images/research/vdm/VDM-pipeline_simple.png" style="display: block; margin: auto;" />
 
 In our daily life, we associate relevance and closeness. VDM is inspired by this simple idea that vessel close to a region of interest are more relevant. VDM is a versatile tool for image post-processing to understand vessel patterns and their relation to physiology and pathologies. While originally developed for MRI, it is currently applied to other imaging modalities as well such as light sheet microscopy. Below you find an overview of VDM projects with a multitude of application to understand vessel patterns and their impact on physiology and pathologies. 
 
@@ -36,11 +38,18 @@ Brain Communications, 2021
 
 # Preprints 
 
-Mattern  H, Garcia-Garcia  B,  Böwe  S,  Mietzner  G,  Henneicke  S,  Speck  O,  Schreiber  S.“Vessel  distance  mapping  reveals  mesoscopic  arterial  and  venous patterns  in  the putamen”,Preprint, DOI: 10.5281/zenodo.8098900; open access
+* Classifying arterial and venous patterns in the putamen with VDM.
+> **Mattern  H**, Garcia-Garcia  B,  Böwe  S,  Mietzner  G,  Henneicke  S,  Speck  O,  Schreiber  S.
+*Vessel  distance  mapping  reveals  mesoscopic  arterial  and  venous patterns  in  the putamen*. [DOI: 10.5281/zenodo.8098900](https://doi.org/) 
 
-Knoll C, Döhler J, Northall A, Schreiber S, Mattern H, Kuehn E; Age-Related Differences in   Human   Cortical   Microstructure   Depend   on   Distance   to   Nearest   Vein;DOI: 10.2139/ssrn.4435790;open access
+* Assessing aging-incuded changes in the micrstructure and its interdependency with the venous vasculature.
+> Knoll C, Döhler J, Northall A, Schreiber S, **Mattern H**, Kuehn E. *Age-Related Differences in   Human   Cortical   Microstructure   Depend   on   Distance   to   Nearest   Vein* 
+[DOI: 10.2139/ssrn.4435790](https://doi.org/10.2139/ssrn.4435790)
 
-Ulbrich P, Morton L, Briese M, Lämmlin N, Mattern H, Hasanuzzaman Md, Westhues M, Khoshneviszadeh   M,  Appenzeller  S,  Gündel  D,  Toussaint  M,  Brust  P,  Kniess  T, Oelschlegel  A,  Goldschmidt  J,  Meuth  S,  Heinze  HJ,  Debska-Vielhaber  G,  Vielhaber  S, Becker A, Dityatev A, Jandke S, Sendtner M, Dunay I, Schreiber S; Vascular and neural transcriptomics   reveal   stage-dependent   pathways   to   inflammation   and   cognitive dysfunction in a rat model of hypertension; DOI: 10.1101/2023.01.20.524921;
+* Applying VDM to microscopy images to study inflammation and cognitive dysfunction in a CSVD rat model.
+> Ulbrich P, Morton L, Briese M, Lämmlin N, **Mattern H**, Hasanuzzaman Md, Westhues M, Khoshneviszadeh   M,  Appenzeller  S,  Gündel  D,  Toussaint  M, Brust  P,  Kniess  T, Oelschlegel  A,  Goldschmidt  J,  Meuth  S,  Heinze  HJ,  Debska-Vielhaber  G,  Vielhaber  S, Becker A, Dityatev A, Jandke S, Sendtner M, Dunay I, Schreiber S. 
+*Vascular and neural transcriptomics   reveal   stage-dependent   pathways   to   inflammation   and   cognitive dysfunction in a rat model of hypertension*
+[DOI: 10.1101/2023.01.20.524921](https://doi.org/10.1101/2023.01.20.524921)
 
 # Open source and publicly available data
 vdm

@@ -1,9 +1,11 @@
 ---
 title: "Motion correction for MRI"
-excerpt: "<img src='/images/research/MPTMotionCorrectionPrinciple.gif'>"
+excerpt: "<img src='/images/research/moco/MPTMotionCorrectionPrinciple.gif'>"
 collection: research
 order_number: 20
 ---
+
+<img src="/images/research/moco/Veno_MoCoOnOff.png" style="display: block; margin: auto;" />
 
 Motion is one of the archenemies of MRI. While the field of motion correction is usually concerned with making non-diagnostic images diagnostic, even compliant volunteers move unintentionally due to breathing and muscle relaxation. For (ultra-)high resolution MRI,  this unintentional motion has an amplitude on the order of the voxel size. Hence, effectively reduced resolution due to motion-induced blurring is the consequence. 
 
@@ -77,4 +79,4 @@ Published in:
 Current Directions in Biomedical Engineering, 2019
 [DOI: 10.1515/cdbme-2019-1570538325](https://doi.org/10.1515/cdbme-2019-1570538325)
 
-<img src="/images/research/RotDevFullView.PNG" style="display: block; margin: auto;" />
+<img src="/images/research/moco/RotDevFullView.PNG" style="display: block; margin: auto;" />

@@ -1,9 +1,11 @@
 ---
 title: "Vessel imaging and segmentation"
-excerpt: "<img src='/images/research/150_um_ToF.gif'>"
+excerpt: "<img src='/images/research/vessel_img/QSM_V3_MIP9_SAG.gif'>"
 collection: research
 order_number: 30
 ---
+
+<img src="/images/research/vessel_img/HiResToFQSM.png" style="display: block; margin: auto;" />
 
 The vasculature has a profound effect on the brain's function and physiology as well as being the origin or reserve mechanism of pathologies. With MRI we have the unique potential to image non-invasively the structure and function of vasculature as well as associated downstream pathologies. 
 
@@ -81,7 +83,8 @@ Magnetic Resonance in Medicine, 2018
 Magnetic Resonance in Medicine, 2017
 [DOI: 10.1002/mrm.27033](https://doi.org/10.1002/mrm.27033)
 
-
+# Vessel segmentation challenge:
+SMILE-UHURA: Small  Vessel  Segmentation  at  MesoscopIc  ScaLEfrom  Ultra-High ResolUtion 7T Magnetic Resonance AngiogramsOrganizers:  Chatterjee  S, Mattern  H,  Dubost  F,  Schreiber  S,  Nürnberger  A,  Speck  O; Conference: IEEE -ISBI 2023, Cartagena de Indias, Colombia: https://doi.org/10.7303/syn47164761
 
 # Open source and publicly available data
 vessel challenge
@@ -90,3 +93,11 @@ DS6 code
 challenge
 pial
 follow up
+
+
+Opentools, source code, and data:#
+1.Vessel segmentation source code (OMELETTE): https://gitlab.com/hmattern/omelette
+2.Vessel distance mapping (VDM) source code:https://github.com/hendrikmattern/VesselDistanceMapping
+3.Benchmark vessel     segmentation     data     from     the     SMILE-UHURA     challenge: https://doi.org/10.7303/syn471647614.DS6 
+vessel segmentation source code: https://github.com/soumickmj/DS65.Data  
+Data of  the  highest  resolution  ToF  angiography  to  date  at 140μmisotropic  resolution: https://osf.io/nr6gc/DOI 10.17605/OSF.IO/NR6GC

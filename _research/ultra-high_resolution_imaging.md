@@ -1,9 +1,11 @@
 ---
 title: "Ultra-high resolution imaging & UHF-MRI"
-excerpt: "<img src='/images/500x300.png'>"
+excerpt: "<img src='/images/research/hires/T1wDivT2w.gif'>"
 collection: research
 order_number: 10
 ---
+
+<img src="/images/research/moco/CloseUp_QSM.png" style="display: block; margin: auto;" />
 
 Leveraging ultra-high field MRI to image the human brain at the mesoscopic scale
 

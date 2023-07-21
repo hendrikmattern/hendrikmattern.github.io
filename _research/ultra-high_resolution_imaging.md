@@ -67,8 +67,6 @@ Scientific Data, 2017
 
 # Open source and publicly available data
 
-pial
-250
-follow up
-
-http://dx.doi.org/10.5061/dryad.38s74
+* [Data of  the  highest  resolution  ToF  angiography  to  date  at 140μm isotropic  resolution](https://osf.io/nr6gc/) 
+* [Data from the human phantom including ToF angiography and QSM-derived venograms](https://doi.org/10.1038/s41597-021-00923-w)
+* [Data for the 250 µm MPRAGE publication](http://dx.doi.org/10.5061/dryad.38s74)

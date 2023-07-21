@@ -5,7 +5,7 @@ collection: research
 order_number: 30
 ---
 
-<img src="/images/research/vessel_img/HiResToFQSM.png" style="display: block; margin: auto;" />
+<img src="/images/research/vessel_img/HiResToFQSM.png" width="350"/>
 
 The vasculature has a profound effect on the brain's function and physiology as well as being the origin or reserve mechanism of pathologies. With MRI we have the unique potential to image non-invasively the structure and function of vasculature as well as associated downstream pathologies. 
 

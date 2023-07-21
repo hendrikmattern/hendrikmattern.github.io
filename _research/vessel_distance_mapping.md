@@ -36,13 +36,11 @@ Brain Communications, 2021
 
 # Preprints 
 
-vdm bg preprint
+Mattern  H, Garcia-Garcia  B,  Böwe  S,  Mietzner  G,  Henneicke  S,  Speck  O,  Schreiber  S.“Vessel  distance  mapping  reveals  mesoscopic  arterial  and  venous patterns  in  the putamen”,Preprint, DOI: 10.5281/zenodo.8098900; open access
 
-micro philipp https://doi.org/10.1101/2023.01.20.524921
+Knoll C, Döhler J, Northall A, Schreiber S, Mattern H, Kuehn E; Age-Related Differences in   Human   Cortical   Microstructure   Depend   on   Distance   to   Nearest   Vein;DOI: 10.2139/ssrn.4435790;open access
 
-preprint Christoph
-
-
+Ulbrich P, Morton L, Briese M, Lämmlin N, Mattern H, Hasanuzzaman Md, Westhues M, Khoshneviszadeh   M,  Appenzeller  S,  Gündel  D,  Toussaint  M,  Brust  P,  Kniess  T, Oelschlegel  A,  Goldschmidt  J,  Meuth  S,  Heinze  HJ,  Debska-Vielhaber  G,  Vielhaber  S, Becker A, Dityatev A, Jandke S, Sendtner M, Dunay I, Schreiber S; Vascular and neural transcriptomics   reveal   stage-dependent   pathways   to   inflammation   and   cognitive dysfunction in a rat model of hypertension; DOI: 10.1101/2023.01.20.524921;
 
 # Open source and publicly available data
 vdm

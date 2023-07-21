@@ -35,5 +35,13 @@ The aim is to establish the so-called MagDeburger DrAinage-Reserve-Score to allo
 * Funding agency: Deutsche Forschungsgemeinschaft (DFG)
 * Funding period: 01.07.2020-30.06.2021
 * Project number: <a href="https://gepris.dfg.de/gepris/projekt/446268581?language=en" target="_blank"> 446268581 </a>
+* Final grant report: [DOI: 10.5281/zenodo.8169957](https://doi.org/10.5281/zenodo.8169957)
 
 Project was awarded to me as part of the 9th Nachwuchsakademie Medizintechnik (NAMT-2019) “Quantitative MRI as a key modality in life sciences” of the DFG.
+
+
+{% assign ordered_pages = site.research | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}

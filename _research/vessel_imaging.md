@@ -1,6 +1,6 @@
 ---
 title: "Vessel imaging and segmentation"
-excerpt: "<img src='/images/500x300.png'>"
+excerpt: "<img src='/images/research/150_um_ToF.gif'>"
 collection: research
 order_number: 30
 ---

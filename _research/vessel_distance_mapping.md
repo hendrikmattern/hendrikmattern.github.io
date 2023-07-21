@@ -1,6 +1,7 @@
 ---
 title: "Vessel distance mapping (VDM) and pattern assessment"
 excerpt: "<img src='/images/500x300.png'>"
+permalink: /research/vessel_distance_mapping/
 collection: research
 order_number: 40
 ---

@@ -40,8 +40,8 @@ The aim is to establish the so-called MagDeburger DrAinage-Reserve-Score to allo
 Project was awarded to me as part of the 9th Nachwuchsakademie Medizintechnik (NAMT-2019) “Quantitative MRI as a key modality in life sciences” of the DFG.
 
 
-{% assign ordered_pages = site.grants | sort:"order_number" %}
+<nbsp>
 
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
+{% for post in site.grants %}
+  {% include archive-single.html %}
 {% endfor %}

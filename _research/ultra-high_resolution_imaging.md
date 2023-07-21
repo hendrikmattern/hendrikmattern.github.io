@@ -5,11 +5,12 @@ collection: research
 order_number: 10
 ---
 
-<img src="/images/research/moco/CloseUp_QSM.png" width="350"/>
+<img src="/images/research/hires/CloseUp_QSM.png" width="350"/>
 
-Leveraging ultra-high field MRI to image the human brain at the mesoscopic scale
+Ultra-high field MRI provides increased SNR which can be leveraged to image the human brain at the mesoscopic scale.
+Additionally, contrasts such as ToF angiography and QSM have an additional boost in contrast when moving to higher field strengths.
+Leveraging 7T, we have been able to acquire some of the highest resolution human in vivo images to date, including MPRAGE at 250 µm, ToF angiography at 150 µm as well as 140 µm, and QSM at 330 µm isotropic resolution. All data is openly available (see below). Further, the corresponding publications as well as other selected high resolution studies are listed in the following.
 
-... some of the highest resolution MRI to date featuring ...
 
 # Scientific contribution & selected publications
 

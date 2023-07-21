@@ -6,7 +6,7 @@ collection: research
 order_number: 40
 ---
 
-<img src="/images/research/vdm/VDM-pipeline_simple.png" style="display: block; margin: auto;" />
+<img src="/images/research/vdm/VDM-pipeline_simple.png" width="350" />
 
 In our daily life, we associate relevance and closeness. VDM is inspired by this simple idea that vessel close to a region of interest are more relevant. VDM is a versatile tool for image post-processing to understand vessel patterns and their relation to physiology and pathologies. While originally developed for MRI, it is currently applied to other imaging modalities as well such as light sheet microscopy. Below you find an overview of VDM projects with a multitude of application to understand vessel patterns and their impact on physiology and pathologies. 
 
@@ -52,4 +52,5 @@ Brain Communications, 2021
 [DOI: 10.1101/2023.01.20.524921](https://doi.org/10.1101/2023.01.20.524921)
 
 # Open source and publicly available data
-vdm
+
+* [Vessel distance mapping (VDM) source code](https://github.com/hendrikmattern/VesselDistanceMapping)

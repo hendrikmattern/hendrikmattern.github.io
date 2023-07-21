@@ -5,7 +5,7 @@ collection: research
 order_number: 20
 ---
 
-<img src="/images/research/moco/Veno_MoCoOnOff.png" style="display: block; margin: auto;" />
+<img src="/images/research/moco/Veno_MoCoOnOff.png" width="350"/>
 
 Motion is one of the archenemies of MRI. While the field of motion correction is usually concerned with making non-diagnostic images diagnostic, even compliant volunteers move unintentionally due to breathing and muscle relaxation. For (ultra-)high resolution MRI,  this unintentional motion has an amplitude on the order of the voxel size. Hence, effectively reduced resolution due to motion-induced blurring is the consequence. 
 

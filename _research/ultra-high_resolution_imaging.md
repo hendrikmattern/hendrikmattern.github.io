@@ -5,7 +5,7 @@ collection: research
 order_number: 10
 ---
 
-<img src="/images/research/moco/CloseUp_QSM.png" style="display: block; margin: auto;" />
+<img src="/images/research/moco/CloseUp_QSM.png" width="350"/>
 
 Leveraging ultra-high field MRI to image the human brain at the mesoscopic scale
 
@@ -70,3 +70,5 @@ Scientific Data, 2017
 pial
 250
 follow up
+
+http://dx.doi.org/10.5061/dryad.38s74

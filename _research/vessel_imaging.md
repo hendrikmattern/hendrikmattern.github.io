@@ -84,20 +84,15 @@ Magnetic Resonance in Medicine, 2017
 [DOI: 10.1002/mrm.27033](https://doi.org/10.1002/mrm.27033)
 
 # Vessel segmentation challenge:
-SMILE-UHURA: Small  Vessel  Segmentation  at  MesoscopIc  ScaLEfrom  Ultra-High ResolUtion 7T Magnetic Resonance AngiogramsOrganizers:  Chatterjee  S, Mattern  H,  Dubost  F,  Schreiber  S,  Nürnberger  A,  Speck  O; Conference: IEEE -ISBI 2023, Cartagena de Indias, Colombia: https://doi.org/10.7303/syn47164761
+* SMILE-UHURA: Small  Vessel  Segmentation  at  MesoscopIc  ScaLEfrom  Ultra-High ResolUtion 7T Magnetic Resonance Angiograms
+  * Organizers:  Chatterjee  S, **Mattern  H**,  Dubost  F,  Schreiber  S,  Nürnberger  A,  Speck  O; 
+  * Conference: IEEE -ISBI 2023, Cartagena de Indias, Colombia: 
+  * [DOI: /10.7303/syn47164761](https://doi.org/10.7303/syn47164761)
 
 # Open source and publicly available data
-vessel challenge
-omelette 
-DS6 code
-challenge
-pial
-follow up
 
-
-Opentools, source code, and data:#
-1.Vessel segmentation source code (OMELETTE): https://gitlab.com/hmattern/omelette
-2.Vessel distance mapping (VDM) source code:https://github.com/hendrikmattern/VesselDistanceMapping
-3.Benchmark vessel     segmentation     data     from     the     SMILE-UHURA     challenge: https://doi.org/10.7303/syn471647614.DS6 
-vessel segmentation source code: https://github.com/soumickmj/DS65.Data  
-Data of  the  highest  resolution  ToF  angiography  to  date  at 140μmisotropic  resolution: https://osf.io/nr6gc/DOI 10.17605/OSF.IO/NR6GC
+* [Vessel segmentation source code (OMELETTE)](https://gitlab.com/hmattern/omelette)
+* [Benchmark vessel     segmentation     data     from     the     SMILE-UHURA     challenge](https://doi.org/10.7303/syn471647614.DS6 )
+* [DS6 vessel segmentation source code](https://github.com/soumickmj/DS6)
+* [Data of  the  highest  resolution  ToF  angiography  to  date  at 140μm isotropic  resolution](https://osf.io/nr6gc/) 
+* [Data from the human phantom including ToF angiography and QSM-derived venograms](https://doi.org/10.1038/s41597-021-00923-w)

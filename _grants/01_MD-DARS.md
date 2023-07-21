@@ -1,6 +1,6 @@
 ---
 title: "MD-DARS: MagDeburger DrAinage-Reserve-Score for patient-specific, MRI-based prediction of perivascular drainage in the Alzheimer’s continuum"
-excerpt: "..."
+excerpt: "DAG funded project from 01.10.2022 to 30.09.2024"
 collection: grants
 order_number: 1
 ---

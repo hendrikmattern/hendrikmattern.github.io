@@ -1,10 +1,12 @@
 ---
 title: "MD-DARS: MagDeburger DrAinage-Reserve-Score for patient-specific, MRI-based prediction of perivascular drainage in the Alzheimer’s continuum"
-excerpt: "* Funding agency: Deutsche Alzheimer Gesellschaft (DAG) e.V.
-* Funding period: 01.10.2022-30.09.2024"
+excerpt: "..."
 collection: grants
 order_number: 1
 ---
+
+* Funding agency: Deutsche Alzheimer Gesellschaft (DAG) e.V.
+* Funding period: 01.10.2022-30.09.2024
 
 While immunotherapies against the typical Alzheimer's protein β-amyloid (Aβ) hold great potential, they are associated with an increased risk of brain hemorrhage and edema. 
 The risks seems to be releated to higher burden of Aβ deposition  along small cerebral vessels. 

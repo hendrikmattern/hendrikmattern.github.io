@@ -21,3 +21,8 @@ Typical topics include, but are not limited to:
 * Image reconstruction with BART
 * Image postprocessing to assess the interdepenceny of vasculature and anatomy
 * MR motion correction 
+
+# Schwarzkörperstrahlung
+
+
+You can download the script here as [interactive Jupyter Notebook](/files/LehrprobeNotebook.ipynb), [static html](/files/LehrprobeNotebook.html), or [pdf](/files/LehrprobeNotebook.pdf).

@@ -1,6 +1,6 @@
 ---
 title: "Vessel distance mapping (VDM), vessel segmentation, and pattern assessment"
-excerpt: "<img src='/images/research/vdm/VDM_hippo_crc.jpg'>"
+excerpt: "<img src='/images/research/vdm/VDM_hippo_crc.png'>"
 permalink: /research/vessel_distance_mapping/
 collection: research
 order_number: 40

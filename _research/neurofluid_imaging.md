@@ -5,7 +5,7 @@ collection: research
 order_number: 30
 ---
 
-<img src="/images/research/vessel_img/HiResToFQSM.png" width="350"/>
+<img src="/images/research/neurfluid_img/HiResToFQSM.png" width="350"/>
 
 Neurofluids is a novel umbrella term referring to all fluid-filled spaces in the brain. This includes the vasculature with arteries, arterioles, capillaries, venules, and veins as well as perivascular spaces (PVS), interstitial fluid (ISF), and the cerebrospinal fluid (CSF).
 Neurofluids have a profound effect on the brain's function and physiology as well as being the origin of reserve mechanisms and the driver of waste clearance in the brain. With MRI we have the unique potential to image non-invasively the structure and function of neurofluids as well as associated downstream pathologies. 

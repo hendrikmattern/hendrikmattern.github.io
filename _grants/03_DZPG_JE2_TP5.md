@@ -9,6 +9,7 @@ order_number: 3
 * Funding agency: Bundesministerium für Bildung und Forschung (BMBF)
 * Funding period: 01.07.2023-30.06.2025
 * Project number: JE2/TP5
+* PIs in alphabetic order: Besteher, **Mattern**, Speck
 
 I am a Co-PI for this subproject of the BMBF-funded start-up phase of the DZPG (Deutsches Zentrum für Psychische Gesundheit/German Center for Mental Health). 
 A consortium of researcher is working on this subproject, including Bianca Besteher, Oliver Speck, Jose Bernal Moyano, Nils Opel, and Christian Gaser.

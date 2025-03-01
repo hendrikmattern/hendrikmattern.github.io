@@ -7,7 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-I'm a tutor for the *"Basics of Magnetic Resonance"* course every winter semester since 2019. Further, I'm a tutor for the *"Physics for Engineers"* course since 2018, supervising the lab experiments every summer and teaching physics exercises every winter semester.
+Starting in the 2025 summer semester, I am responsible for the module Physics I \& II for the bachelor Engineering Science at the OVGU Magdeburg. You can find the material and syllabus [*here*](https://github.com/hendrikmattern/physics "link to Physics I and II material").
+
+Further, I'm a tutor for the *"Basics of Magnetic Resonance"* course every winter semester since 2019. 
+
+From 2018 to 2025, I was a tutor for the *"Physics for Engineers"* course, supervising the lab experiments every summer and teaching physics exercises every winter semester.
 
 Besides teaching on the university-level, I'm part of the
 [*Magnetic Resonance System Engineering*](https://www.forschungscampus-stimulate.de/deu/aktuelles/news/neuer-workshop-zum-magnetic-resonance-system-engineering-gestartet.html "link to MRSE press release") 

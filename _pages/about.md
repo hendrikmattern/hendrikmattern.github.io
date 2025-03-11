@@ -17,7 +17,7 @@ In particular I'm interested in ultra-high resolution imaging, usually at ultra-
 Fortunately, I have access to multiple MR machines here in Magdeburg, including a 7T plus as well as a [7T Connectome](https://www.mri.ovgu.de/en/News/Projekt+7+Tesla+Connectome+MRI.html).
 Besides ultra-high resolution and neurofluid imaging, I have fun with some pet projects, such as using chemical shift artifacts of an oil mask to [prospectively anonymize k-space data](https://doi.org/10.1002/mrm.28460 "link to CHARISMA MRM paper").
 
-Since March 2025, I have been a Junior Professor of High-Field MR Methods in Neuroimaging at Otto von Guericke University Magdeburg.
+Since March 2025, I have been a Junior Professor for High-Field MR Methods in Neuroimaging at Otto von Guericke University Magdeburg.
 
 *Overview where my coauthors are located around the world*
 

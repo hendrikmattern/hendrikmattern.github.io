@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Starting in the 2025 summer semester, I am responsible for the module Physics I \& II for the bachelor Engineering Science at the OVGU Magdeburg. You can find the material and syllabus [*here*](https://github.com/hendrikmattern/physics "link to Physics I and II material").
+Starting in the 2025 summer semester, I am responsible for the module Physics I & II for the bachelor Engineering Science at the OVGU Magdeburg. You can find the material and syllabus [*here*](https://github.com/hendrikmattern/physics "link to Physics I and II material").
 
 Further, I'm a tutor for the *"Basics of Magnetic Resonance"* course every winter semester since 2019. 
 

@@ -21,4 +21,8 @@ Since March 2025, I have been a Junior Professor for High-Field MR Methods in Ne
 
 *Overview where my coauthors are located around the world*
 
-{% include colab_world.html %}
+<iframe
+  src="{{ base_path }}/assets/plots/colab_world.html"
+  style="width: 100%; height: 720px; border: 0;"
+  loading="lazy">
+</iframe>

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hendrik Mattern"
 title_separator          : "-"
 name                     : &name "Hendrik Mattern"
-description              : &description "MRI person"
+description              : &description "Junior Professor for High-Field MR Methods in Neuroimaging at Otto von Guericke University Magdeburg."
 url                      : https://hendrikmattern.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hendrikmattern/hendrikmattern.github.io"
@@ -62,13 +62,16 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "profile.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Hendrik Mattern"
+  links:
+    - "https://scholar.google.com/citations?hl=en&user=CBgK8gIAAAAJ"
+    - "https://github.com/hendrikmattern"
+    - "https://www.ncbi.nlm.nih.gov/pubmed/?term=hendrik+mattern"
 
 
 # Analytics
@@ -82,7 +85,7 @@ analytics:
 author:
   name             : "Hendrik Mattern"
   avatar           : "profile.png"
-  bio              : "a MRI person"
+  bio              : "Junior Professor for High-Field MR Methods in Neuroimaging"
   location         : "Magdeburg, Germany"
   employer         : #"Otto von Guericke University Magdeburg"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=hendrik+mattern"

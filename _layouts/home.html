@@ -1,0 +1,54 @@
+---
+layout: compress
+---
+{% include base_path %}
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    {% include seo.html %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f6f3ed">
+    <meta name="color-scheme" content="light">
+    <link rel="stylesheet" href="{{ base_path }}/assets/css/home.css">
+    <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/safari-pinned-tab.svg">
+    <script src="{{ base_path }}/assets/js/home.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+
+    <header class="site-header" data-site-header>
+      <div class="site-header__inner">
+        <a class="site-brand" href="#top" aria-label="Hendrik Mattern, back to top">
+          <span class="site-brand__name">Hendrik Mattern</span>
+          <span class="site-brand__field">High-field MRI methods</span>
+        </a>
+
+        <nav class="site-nav" aria-label="Homepage sections">
+          <ul>
+            <li><a href="#research">Research</a></li>
+            <li><a href="#projects">Funding</a></li>
+            <li>
+              <a href="#collaboration" aria-label="Collaboration">
+                <span class="nav-label--full">Collaboration</span>
+                <span class="nav-label--short" aria-hidden="true">Collab.</span>
+              </a>
+            </li>
+            <li><a href="#teaching">Teaching</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="site-footer__inner">
+        <p>&copy; {{ site.time | date: '%Y' }} Hendrik Mattern</p>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,17 +1,17 @@
-# main links links
+# Primary links point to sections of the single-page homepage.
 main:
-  - title: "Research & publications"
-    url: /research/
-    
-  - title: "Grants & funding"
-    url: /grants/
-    
-  - title: "Teaching & student projects"
-    url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Research"
+    url: /#research
+
+  - title: "Funding"
+    url: /#projects
+
+  - title: "Collaboration"
+    url: /#collaboration
+
+  - title: "Teaching"
+    url: /#teaching
+
+  - title: "Contact"
+    url: /#contact
     
